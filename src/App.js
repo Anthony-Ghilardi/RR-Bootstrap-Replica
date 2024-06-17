@@ -1,7 +1,7 @@
-import './App.css';
-import BackgroundImage from './Components/BackgroundImage';
-import StoreListings from './Components/StoreListings';
-import TopBar from './Components/TopBar';
+import "./App.css";
+import BackgroundImage from "./Components/BackgroundImage";
+import StoreListings from "./Components/StoreListings";
+import TopBar from "./Components/TopBar";
 
 function App() {
   return (
